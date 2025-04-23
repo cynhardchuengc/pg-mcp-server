@@ -1,3 +1,5 @@
+作者微信：1875954969
+
 # PostgreSQL MCP 服务器
 
 基于Model Context Protocol (MCP)的PostgreSQL数据库访问服务器。该服务器允许AI助手安全地执行PostgreSQL数据库操作，包括查询、插入、更新和删除数据，以及表结构操作。
@@ -19,6 +21,8 @@ pg-mcp-server/
 ├── tsconfig.json       # TypeScript编译配置
 └── README.md           # 项目说明文档
 ```
+
+
 
 ## 核心脚本说明
 
